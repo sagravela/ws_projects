@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Kronos",
+        "rating": 4.4,
+        "reviews": 408,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Kronos/data=!4m7!3m6!1s0x9681402622a3b2c9:0x97f1fdef7f8cef4b!8m2!3d-31.5392256!4d-68.5293435!16s%2Fg%2F11f_j64m2y!19sChIJybKjIiZAgZYRS--Mf-_98Zc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "A2 Club",
+        "rating": 4.7,
+        "reviews": 267,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/A2+Club/data=!4m7!3m6!1s0x96814133e11da81f:0x54d1c1d046784255!8m2!3d-31.5372951!4d-68.5488302!16s%2Fg%2F11ghfstctp!19sChIJH6gd4TNBgZYRVUJ4RtDB0VQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Hiroshima fitness club Gym",
+        "rating": 4.7,
+        "reviews": 263,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Hiroshima+fitness+club+Gym/data=!4m7!3m6!1s0x968141a36fab335d:0x402b3331a7164f87!8m2!3d-31.5200572!4d-68.562228!16s%2Fg%2F11clzj6zvf!19sChIJXTOrb6NBgZYRh08WpzEzK0A?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Sioux",
+        "rating": 4.4,
+        "reviews": 201,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Sioux/data=!4m7!3m6!1s0x96814038a3c77349:0xbd44ecbe6aa4a406!8m2!3d-31.5459947!4d-68.5475465!16s%2Fg%2F11fy9rp6kq!19sChIJSXPHozhAgZYRBqSkar7sRL0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Sioux",
+        "rating": 4.4,
+        "reviews": 201,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Sioux/data=!4m7!3m6!1s0x96814038a3c77349:0xbd44ecbe6aa4a406!8m2!3d-31.5459947!4d-68.5475465!16s%2Fg%2F11fy9rp6kq!19sChIJSXPHozhAgZYRBqSkar7sRL0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Terra",
+        "rating": 4.7,
+        "reviews": 196,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Terra/data=!4m7!3m6!1s0x9681402865f4614d:0x731f3cd018b6ae43!8m2!3d-31.5389356!4d-68.5686692!16s%2Fg%2F11flt3h52t!19sChIJTWH0ZShAgZYRQ662GNA8H3M?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "CODEBA GYM",
+        "rating": 4.4,
+        "reviews": 182,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/CODEBA+GYM/data=!4m7!3m6!1s0x968141a4ab69a071:0x784f231b7125ad25!8m2!3d-31.5172763!4d-68.5605919!16s%2Fg%2F11g88b44nm!19sChIJcaBpq6RBgZYRJa0lcRsjT3g?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Baika Club Gym Centro",
+        "rating": 4.6,
+        "reviews": 166,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Baika+Club+Gym+Centro/data=!4m7!3m6!1s0x9681411eaed5e433:0x9354f8b96231fd1f!8m2!3d-31.5394734!4d-68.5354356!16s%2Fg%2F11h46by8z1!19sChIJM-TVrh5BgZYRH_0xYrn4VJM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Energym",
+        "rating": 4.6,
+        "reviews": 165,
+        "cost": "\uf54a",
+        "link": "https://www.google.com/maps/place/Energym/data=!4m7!3m6!1s0x96816a98bf827809:0x542fff0ca55860b7!8m2!3d-31.5463126!4d-68.5175077!16s%2Fg%2F11g8k584kq!19sChIJCXiCv5hqgZYRt2BYpQz_L1Q?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Body Live Gimnasio",
+        "rating": 4.5,
+        "reviews": 151,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Body+Live+Gimnasio/data=!4m7!3m6!1s0x96816aa8638597dd:0x71108c162998df9d!8m2!3d-31.5599935!4d-68.5222373!16s%2Fg%2F11g8wxrh3v!19sChIJ3ZeFY6hqgZYRnd-YKRaMEHE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Body Live Gimnasio",
+        "rating": 4.5,
+        "reviews": 151,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Body+Live+Gimnasio/data=!4m7!3m6!1s0x96816aa8638597dd:0x71108c162998df9d!8m2!3d-31.5599935!4d-68.5222373!16s%2Fg%2F11g8wxrh3v!19sChIJ3ZeFY6hqgZYRnd-YKRaMEHE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Baika Club Gym",
+        "rating": 4.6,
+        "reviews": 145,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Baika+Club+Gym/data=!4m7!3m6!1s0x968141289b34f293:0xbe687463838d2643!8m2!3d-31.5311872!4d-68.5944461!16s%2Fg%2F11j07xnk3t!19sChIJk_I0myhBgZYRQyaNg2N0aL4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Sisterna",
+        "rating": 4.6,
+        "reviews": 143,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Sisterna/data=!4m7!3m6!1s0x96816a9d1fee1015:0xb481c834e4d64b93!8m2!3d-31.5389401!4d-68.521732!16s%2Fg%2F1tfvv4dg!19sChIJFRDuH51qgZYRk0vW5DTIgbQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "XL Gym",
+        "rating": 4.6,
+        "reviews": 138,
+        "cost": "\uf54a",
+        "link": "https://www.google.com/maps/place/XL+Gym/data=!4m7!3m6!1s0x96814004d5d04a5f:0xca8108932171420f!8m2!3d-31.5616481!4d-68.5335703!16s%2Fg%2F11f0mftcz2!19sChIJX0rQ1QRAgZYRD0JxIZMIgco?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Fitness Center Gym Trinidad",
+        "rating": 4.2,
+        "reviews": 136,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Fitness+Center+Gym+Trinidad/data=!4m7!3m6!1s0x9681402c07f334cf:0x4a1cc06e910fa153!8m2!3d-31.5498205!4d-68.5213004!16s%2Fg%2F1tfqbfjg!19sChIJzzTzByxAgZYRU6EPkW7AHEo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Fitness Center Gym Trinidad",
+        "rating": 4.2,
+        "reviews": 136,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Fitness+Center+Gym+Trinidad/data=!4m7!3m6!1s0x9681402c07f334cf:0x4a1cc06e910fa153!8m2!3d-31.5498205!4d-68.5213004!16s%2Fg%2F1tfqbfjg!19sChIJzzTzByxAgZYRU6EPkW7AHEo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Life Fit Gym",
+        "rating": 4.8,
+        "reviews": 130,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Life+Fit+Gym/data=!4m7!3m6!1s0x96816b4865ca181b:0x697ed5bf74b336fc!8m2!3d-31.537418!4d-68.4959411!16s%2Fg%2F11lq0k3hhz!19sChIJGxjKZUhrgZYR_DazdL_Vfmk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Ull Crossfit",
+        "rating": 4.7,
+        "reviews": 128,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Ull+Crossfit/data=!4m7!3m6!1s0x96814049e58c69fd:0xeb584a12a11aaed1!8m2!3d-31.5378199!4d-68.5503974!16s%2Fg%2F11c1rt4sjj!19sChIJ_WmM5UlAgZYR0a4aoRJKWOs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Box Obras - Gym Estudiantil - Acondicionamiento F\u00edsico",
+        "rating": 4.5,
+        "reviews": 127,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Box+Obras+-+Gym+Estudiantil+-+Acondicionamiento+F%C3%ADsico/data=!4m7!3m6!1s0x968141cafa61fbcd:0x8fe610d30a41a167!8m2!3d-31.5286838!4d-68.5466377!16s%2Fg%2F11dxl41ppx!19sChIJzfth-spBgZYRZ6FBCtMQ5o8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Extreme",
+        "rating": 4.7,
+        "reviews": 118,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Extreme/data=!4m7!3m6!1s0x96814018efb797b7:0x1ff25f815eb0dc5!8m2!3d-31.5520457!4d-68.5327661!16s%2Fg%2F11c70chg_l!19sChIJt5e37xhAgZYRxQ3rFfgl_wE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Calidad de Vida",
+        "rating": 4.8,
+        "reviews": 110,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Calidad+de+Vida/data=!4m7!3m6!1s0x968141b54b3ca5bb:0x70eda37d1fd5cf76!8m2!3d-31.5315568!4d-68.5498601!16s%2Fg%2F11c30y3xqq!19sChIJu6U8S7VBgZYRds_VH32j7XA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Excalibur Gym",
+        "rating": 4.4,
+        "reviews": 110,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Excalibur+Gym/data=!4m7!3m6!1s0x968140479c01e911:0xaa0084d7ad6484a!8m2!3d-31.5446758!4d-68.5495887!16s%2Fg%2F11c44p_b9h!19sChIJEekBnEdAgZYRSkjWek0IoAo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Richet Zapata",
+        "rating": 4.1,
+        "reviews": 107,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Richet+Zapata/data=!4m7!3m6!1s0x96816a4f28e707eb:0xf747f3bbd5fa50f5!8m2!3d-31.5045878!4d-68.486072!16s%2Fg%2F11b_3gnmbb!19sChIJ6wfnKE9qgZYR9VD61bvzR_c?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Status Gym",
+        "rating": 4.4,
+        "reviews": 92,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Status+Gym/data=!4m7!3m6!1s0x96816bd81a1eeca7:0x9acdce5c877f73b3!8m2!3d-31.5289201!4d-68.5221835!16s%2Fg%2F11rtpcmkq3!19sChIJp-weGthrgZYRs3N_h1zOzZo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "SportClub San Juan suc. Libertad",
+        "rating": 4.8,
+        "reviews": 90,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/SportClub+San+Juan+suc.+Libertad/data=!4m7!3m6!1s0x96814104e64f9413:0xdc5947b98dc15198!8m2!3d-31.5215072!4d-68.5409738!16s%2Fg%2F11rb_w3dx_!19sChIJE5RP5gRBgZYRmFHBjblHWdw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Nyma Capital",
+        "rating": 4.9,
+        "reviews": 89,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Nyma+Capital/data=!4m7!3m6!1s0x968141c673824d45:0xb00ee42baa1cffeb!8m2!3d-31.5177762!4d-68.5430862!16s%2Fg%2F11c56rc79q!19sChIJRU2Cc8ZBgZYR6_8cqivkDrA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "En Movimiento Gimnasio",
+        "rating": 4.8,
+        "reviews": 87,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/En+Movimiento+Gimnasio/data=!4m7!3m6!1s0x96813fee61572f53:0x13948ce2d80d29d0!8m2!3d-31.5738!4d-68.5308641!16s%2Fg%2F11h04nwkr7!19sChIJUy9XYe4_gZYR0CkN2OKMlBM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Ps",
+        "rating": 4.6,
+        "reviews": 86,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Ps/data=!4m7!3m6!1s0x968141b54bb11047:0xe3e215314c881015!8m2!3d-31.5312555!4d-68.5498606!16s%2Fg%2F1thl_ng_!19sChIJRxCxS7VBgZYRFRCITDEV4uM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Centro de Entrenamiento Personalizado Vital",
+        "rating": 5.0,
+        "reviews": 84,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Centro+de+Entrenamiento+Personalizado+Vital/data=!4m7!3m6!1s0x968141b5ec4154f9:0x18273ac4773ec6f6!8m2!3d-31.5537498!4d-68.5515296!16s%2Fg%2F11tkbnrfb5!19sChIJ-VRB7LVBgZYR9sY-d8Q6Jxg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Centro de Entrenamiento Personalizado Vital",
+        "rating": 5.0,
+        "reviews": 84,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Centro+de+Entrenamiento+Personalizado+Vital/data=!4m7!3m6!1s0x968141b5ec4154f9:0x18273ac4773ec6f6!8m2!3d-31.5537498!4d-68.5515296!16s%2Fg%2F11tkbnrfb5!19sChIJ-VRB7LVBgZYR9sY-d8Q6Jxg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Max Power Gym",
+        "rating": 4.9,
+        "reviews": 84,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Max+Power+Gym/data=!4m7!3m6!1s0x968141f468e13fcd:0x1b92a70a5b78186!8m2!3d-31.5643131!4d-68.5483563!16s%2Fg%2F11fqt3v60v!19sChIJzT_haPRBgZYRhoG3pXAquQE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Tromen Entrenamiento De Alta Intensidad",
+        "rating": 4.8,
+        "reviews": 82,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Tromen+Entrenamiento+De+Alta+Intensidad/data=!4m7!3m6!1s0x9681403103093b6b:0x985b84e50cb9deff!8m2!3d-31.537664!4d-68.5402027!16s%2Fg%2F11c57s51j9!19sChIJazsJAzFAgZYR_965DOWEW5g?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "MAPUCHE FIGHT CLUB ( EL TEMPLO)",
+        "rating": 4.7,
+        "reviews": 82,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/MAPUCHE+FIGHT+CLUB+%28+EL+TEMPLO%29/data=!4m7!3m6!1s0x968140364c1664ad:0xaadcb51151135837!8m2!3d-31.5386023!4d-68.5482551!16s%2Fg%2F11bw50pb47!19sChIJrWQWTDZAgZYRN1gTURG13Ko?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio EyM",
+        "rating": 4.7,
+        "reviews": 82,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+EyM/data=!4m7!3m6!1s0x96816ae9a22a58cf:0x1641b14ff27d324e!8m2!3d-31.5408718!4d-68.4934378!16s%2Fg%2F11ddzd5snn!19sChIJz1gqoulqgZYRTjJ98k-xQRY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Absolut GYM",
+        "rating": 4.7,
+        "reviews": 78,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Absolut+GYM/data=!4m7!3m6!1s0x968141aa0853b189:0xb30014b3e0a13370!8m2!3d-31.5309019!4d-68.5721114!16s%2Fg%2F11hcdtd3fk!19sChIJibFTCKpBgZYRcDOh4LMUALM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Aquamarina Pileta Climatizada",
+        "rating": 4.1,
+        "reviews": 76,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Aquamarina+Pileta+Climatizada/data=!4m7!3m6!1s0x968140351ac5f8cb:0xb54819619bbab87e!8m2!3d-31.5326268!4d-68.5461351!16s%2Fg%2F11clvp2msr!19sChIJy_jFGjVAgZYRfri6m2EZSLU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Addestra Gym",
+        "rating": 4.6,
+        "reviews": 74,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Addestra+Gym/data=!4m7!3m6!1s0x96816b51966e4ceb:0xc6d3162057b6b920!8m2!3d-31.5455964!4d-68.5236031!16s%2Fg%2F11h3ld587h!19sChIJ60xullFrgZYRILm2VyAW08Y?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Addestra Gym",
+        "rating": 4.6,
+        "reviews": 74,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Addestra+Gym/data=!4m7!3m6!1s0x96816b51966e4ceb:0xc6d3162057b6b920!8m2!3d-31.5455964!4d-68.5236031!16s%2Fg%2F11h3ld587h!19sChIJ60xullFrgZYRILm2VyAW08Y?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Ziel Sport Center",
+        "rating": 4.8,
+        "reviews": 70,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Ziel+Sport+Center/data=!4m7!3m6!1s0x96816bde8d1f43f3:0x85c92cdcaec319d9!8m2!3d-31.5268128!4d-68.5039903!16s%2Fg%2F11fl7f2l5k!19sChIJ80Mfjd5rgZYR2RnDrtwsyYU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Power Gym",
+        "rating": 4.6,
+        "reviews": 69,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Power+Gym/data=!4m7!3m6!1s0x968141163eaf64f5:0x9f33bc30aceec6a7!8m2!3d-31.5246821!4d-68.5950694!16s%2Fg%2F11cp7g2b2v!19sChIJ9WSvPhZBgZYRp8burDC8M58?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "INSIDE GYM",
+        "rating": 4.9,
+        "reviews": 67,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/INSIDE+GYM/data=!4m7!3m6!1s0x968140363eaac051:0x6c75eab93c405e2!8m2!3d-31.5381493!4d-68.5474211!16s%2Fg%2F11fx8ck5sb!19sChIJUcCqPjZAgZYR4gXEk6texwY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Cardio Fitness Medicina del Ejercicio",
+        "rating": 4.7,
+        "reviews": 67,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Cardio+Fitness+Medicina+del+Ejercicio/data=!4m7!3m6!1s0x96816a54dfb74a3b:0xe4d18a8341809055!8m2!3d-31.5343046!4d-68.5525978!16s%2Fg%2F11bbs2_32q!19sChIJO0q331RqgZYRVZCAQYOK0eQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Tuluka Fitness Club",
+        "rating": 4.9,
+        "reviews": 64,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Tuluka+Fitness+Club/data=!4m7!3m6!1s0x968140e1f6b4fbe9:0xb595cdda62800239!8m2!3d-31.5391922!4d-68.5899997!16s%2Fg%2F11f105cxt1!19sChIJ6fu09uFAgZYROQKAYtrNlbU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "NAVAJO Fit Center",
+        "rating": 4.9,
+        "reviews": 64,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/NAVAJO+Fit+Center/data=!4m7!3m6!1s0x968141377d786b49:0x7bc7cf0eb2aed1c8!8m2!3d-31.5307754!4d-68.5265074!16s%2Fg%2F11jrkd4slq!19sChIJSWt4fTdBgZYRyNGusg7Px3s?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "XT Centro De Acondicionamiento Fisico",
+        "rating": 4.6,
+        "reviews": 61,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/XT+Centro+De+Acondicionamiento+Fisico/data=!4m7!3m6!1s0x96816a9da5840d3b:0xd2a4a95a054fe3f5!8m2!3d-31.5406638!4d-68.5224551!16s%2Fg%2F11c20dp_lh!19sChIJOw2EpZ1qgZYR9eNPBVqppNI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Altis Espacio Deportivo",
+        "rating": 4.7,
+        "reviews": 57,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Altis+Espacio+Deportivo/data=!4m7!3m6!1s0x9681402a8a437a99:0x83ec38716f38910b!8m2!3d-31.5296845!4d-68.5261526!16s%2Fg%2F11dxsly2z1!19sChIJmXpDiipAgZYRC5E4b3E47IM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Level Up",
+        "rating": 4.9,
+        "reviews": 57,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Level+Up/data=!4m7!3m6!1s0x9681419067ee1cd7:0xcece13e9ecbe60e9!8m2!3d-31.5296649!4d-68.5907605!16s%2Fg%2F11mnmqwwzm!19sChIJ1xzuZ5BBgZYR6WC-7OkTzs4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Centro de entrenamiento Gustavo Milla",
+        "rating": 4.7,
+        "reviews": 55,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Centro+de+entrenamiento+Gustavo+Milla/data=!4m7!3m6!1s0x9681403989c410ad:0xb7b8b593a6944569!8m2!3d-31.5428295!4d-68.5425319!16s%2Fg%2F11g8pd8wms!19sChIJrRDEiTlAgZYRaUWUppO1uLc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Centro de entrenamiento Gustavo Milla",
+        "rating": 4.7,
+        "reviews": 55,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Centro+de+entrenamiento+Gustavo+Milla/data=!4m7!3m6!1s0x9681403989c410ad:0xb7b8b593a6944569!8m2!3d-31.5428295!4d-68.5425319!16s%2Fg%2F11g8pd8wms!19sChIJrRDEiTlAgZYRaUWUppO1uLc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "A'cero GYM",
+        "rating": 4.3,
+        "reviews": 50,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/A%27cero+GYM/data=!4m7!3m6!1s0x96816a841f71a609:0xa5541ba00a3f9d85!8m2!3d-31.5314082!4d-68.5173917!16s%2Fg%2F11f4lhkf_q!19sChIJCaZxH4RqgZYRhZ0_CqAbVKU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Centro de Entrenamiento SIMA",
+        "rating": 4.4,
+        "reviews": 49,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Centro+de+Entrenamiento+SIMA/data=!4m7!3m6!1s0x96814186376cfb4f:0x4e60777085779aa7!8m2!3d-31.5248766!4d-68.5756223!16s%2Fg%2F11q1sbdf2l!19sChIJT_tsN4ZBgZYRp5p3hXB3YE4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Boxeo Recreativo - Mario Cabello",
+        "rating": 4.9,
+        "reviews": 47,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Boxeo+Recreativo+-+Mario+Cabello/data=!4m7!3m6!1s0x968141b57c076121:0x3d718e34ee1d1359!8m2!3d-31.5290607!4d-68.5489724!16s%2Fg%2F11gdm9gm10!19sChIJIWEHfLVBgZYRWRMd7jSOcT0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "TBT club",
+        "rating": 4.9,
+        "reviews": 43,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/TBT+club/data=!4m7!3m6!1s0x9681413c7a25ee3d:0x6a1babe5eb4cc51c!8m2!3d-31.5344316!4d-68.5935747!16s%2Fg%2F11sw3zq877!19sChIJPe4lejxBgZYRHMVM6-WrG2o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio CROM CHAMPIONS GYM",
+        "rating": 4.9,
+        "reviews": 43,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+CROM+CHAMPIONS+GYM/data=!4m7!3m6!1s0x96814133d28abdc7:0x3af80ff5f117463!8m2!3d-31.567952!4d-68.572649!16s%2Fg%2F11r27tw9k2!19sChIJx72K0jNBgZYRY3QRX_-ArwM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Necaxa Fitness",
+        "rating": 4.8,
+        "reviews": 41,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Necaxa+Fitness/data=!4m7!3m6!1s0x9681402bc7a6dcaf:0x71acd7e661c17035!8m2!3d-31.5318749!4d-68.5286312!16s%2Fg%2F11hbgnks6f!19sChIJr9ymxytAgZYRNXDBYebXrHE?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Vitta Pilates",
+        "rating": 4.6,
+        "reviews": 40,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Vitta+Pilates/data=!4m7!3m6!1s0x96814036d1b07b47:0xd19beb2a50a20385!8m2!3d-31.5377308!4d-68.5430766!16s%2Fg%2F11c326crg4!19sChIJR3uw0TZAgZYRhQOiUCrrm9E?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Poloc Fitness & Physiotherapy",
+        "rating": 4.8,
+        "reviews": 37,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Poloc+Fitness+%26+Physiotherapy/data=!4m7!3m6!1s0x96814176af463be5:0x664cc8bf6ab038fb!8m2!3d-31.5190593!4d-68.5799442!16s%2Fg%2F11rs9y30py!19sChIJ5TtGr3ZBgZYR-ziwar_ITGY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio LA CASA",
+        "rating": 4.8,
+        "reviews": 36,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+LA+CASA/data=!4m7!3m6!1s0x9681410705216603:0x50186baf098ae7d3!8m2!3d-31.5284052!4d-68.5746973!16s%2Fg%2F11f57vsy4r!19sChIJA2YhBQdBgZYR0-eKCa9rGFA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "REY PILATES",
+        "rating": 4.6,
+        "reviews": 36,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/REY+PILATES/data=!4m7!3m6!1s0x968141feb7475cf1:0x8a62f2b192191840!8m2!3d-31.5222567!4d-68.5428469!16s%2Fg%2F11sgchr883!19sChIJ8VxHt_5BgZYRQBgZkrHyYoo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Fly acondicionamiento fisico",
+        "rating": 4.7,
+        "reviews": 35,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Fly+acondicionamiento+fisico/data=!4m7!3m6!1s0x9681419e102bbff9:0x6f277a9a9abf1c61!8m2!3d-31.5476438!4d-68.5290117!16s%2Fg%2F11fs756gpk!19sChIJ-b8rEJ5BgZYRYRy_mpp6J28?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Fly acondicionamiento fisico",
+        "rating": 4.7,
+        "reviews": 35,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Fly+acondicionamiento+fisico/data=!4m7!3m6!1s0x9681419e102bbff9:0x6f277a9a9abf1c61!8m2!3d-31.5476438!4d-68.5290117!16s%2Fg%2F11fs756gpk!19sChIJ-b8rEJ5BgZYRYRy_mpp6J28?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Estudio pilates LG",
+        "rating": 4.9,
+        "reviews": 35,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Estudio+pilates+LG/data=!4m7!3m6!1s0x96816bb6707d29ef:0xe9194f521a585aa6!8m2!3d-31.5418078!4d-68.5159716!16s%2Fg%2F11n118c8qd!19sChIJ7yl9cLZrgZYRplpYGlJPGek?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Up Gym",
+        "rating": 4.8,
+        "reviews": 33,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Up+Gym/data=!4m7!3m6!1s0x9681417fa2ae7927:0x287504194ef9acf6!8m2!3d-31.5361999!4d-68.5565059!16s%2Fg%2F11h_sbcwt2!19sChIJJ3muon9BgZYR9qz5ThkEdSg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Escuela Taiwan",
+        "rating": 4.8,
+        "reviews": 33,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Escuela+Taiwan/data=!4m7!3m6!1s0x9681413bc199d643:0x15e4e21405ec5c79!8m2!3d-31.5278278!4d-68.5277242!16s%2Fg%2F11fkd_ktyf!19sChIJQ9aZwTtBgZYReVzsBRTi5BU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "VGym",
+        "rating": 4.9,
+        "reviews": 32,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/VGym/data=!4m7!3m6!1s0x96816b91cd6e0191:0x83d6039db4fcb922!8m2!3d-31.5371789!4d-68.4991365!16s%2Fg%2F11h2p7hl5g!19sChIJkQFuzZFrgZYRIrn8tJ0D1oM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "All F\u00e9nix Gym",
+        "rating": 4.8,
+        "reviews": 32,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/All+F%C3%A9nix+Gym/data=!4m7!3m6!1s0x96816b5ba8ff59f7:0x842017a582b517cb!8m2!3d-31.5198919!4d-68.5228451!16s%2Fg%2F11ncmqdt18!19sChIJ91n_qFtrgZYRyxe1gqUXIIQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio VIP",
+        "rating": 4.4,
+        "reviews": 31,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+VIP/data=!4m7!3m6!1s0x96816aa733d005a5:0x7a0728a5a2eeb2a9!8m2!3d-31.5541812!4d-68.5227014!16s%2Fg%2F11f57vmw9w!19sChIJpQXQM6dqgZYRqbLuoqUoB3o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "RINGSIDE boxeo recreativo y deportes de contacto",
+        "rating": 4.8,
+        "reviews": 28,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/RINGSIDE+boxeo+recreativo+y+deportes+de+contacto/data=!4m7!3m6!1s0x96816a834840bcb5:0xb2a2a96ddbc4e799!8m2!3d-31.5372105!4d-68.5139278!16s%2Fg%2F11g6bjhv9m!19sChIJtbxASINqgZYRmefE222porI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Activamente Training Center",
+        "rating": 5.0,
+        "reviews": 26,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Activamente+Training+Center/data=!4m7!3m6!1s0x96814183817530b5:0x507daab48244fae1!8m2!3d-31.5458774!4d-68.5472684!16s%2Fg%2F11swd12gdy!19sChIJtTB1gYNBgZYR4fpEgrSqfVA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Be More Centro de Entrenamiento",
+        "rating": 5.0,
+        "reviews": 26,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Be+More+Centro+de+Entrenamiento/data=!4m7!3m6!1s0x968141205dadc97b:0xfada89bbd7f83c55!8m2!3d-31.5480426!4d-68.5363494!16s%2Fg%2F11p64fy_pv!19sChIJe8mtXSBBgZYRVTz417uJ2vo?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "TOROGYM",
+        "rating": 5.0,
+        "reviews": 25,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/TOROGYM/data=!4m7!3m6!1s0x968141a121a6b3a5:0x8dae554245e13811!8m2!3d-31.5231948!4d-68.5282777!16s%2Fg%2F11llwmf68j!19sChIJpbOmIaFBgZYRETjhRUJVro0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "F\u00e1brica club gym",
+        "rating": 4.7,
+        "reviews": 25,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/F%C3%A1brica+club+gym/data=!4m7!3m6!1s0x96814119f88a1d4b:0x67d7c5e3a940d7c!8m2!3d-31.5331184!4d-68.5640882!16s%2Fg%2F11s4pw99y1!19sChIJSx2K-BlBgZYRfA2UOl58fQY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Fitness Center Santa Luc\u00eda",
+        "rating": 4.2,
+        "reviews": 25,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Fitness+Center+Santa+Luc%C3%ADa/data=!4m7!3m6!1s0x96816bac97802b21:0xdf71e00db62bdae0!8m2!3d-31.5331861!4d-68.4942382!16s%2Fg%2F11ptscg27v!19sChIJISuAl6xrgZYR4Nortg3gcd8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gym 360",
+        "rating": 4.8,
+        "reviews": 25,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gym+360/data=!4m7!3m6!1s0x96816bfabd8f7cef:0x50f0316a26d689b8!8m2!3d-31.568369!4d-68.5197936!16s%2Fg%2F11rb9mryfk!19sChIJ73yPvfprgZYRuInWJmox8FA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "YOGA SAN JUAN",
+        "rating": 5.0,
+        "reviews": 22,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/YOGA+SAN+JUAN/data=!4m7!3m6!1s0x968141033847271d:0x838fb014d886398d!8m2!3d-31.5414086!4d-68.5498593!16s%2Fg%2F11lgyzrwjw!19sChIJHSdHOANBgZYRjTmG2BSwj4M?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Athena",
+        "rating": 5.0,
+        "reviews": 20,
+        "cost": "\uf54a",
+        "link": "https://www.google.com/maps/place/Athena/data=!4m7!3m6!1s0x968141238a1b7b2b:0x2409fad7c6cbeaa2!8m2!3d-31.5353799!4d-68.5285192!16s%2Fg%2F11ghg3stbb!19sChIJK3sbiiNBgZYRourLxtf6CSQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "TREINO GYM",
+        "rating": 4.8,
+        "reviews": 20,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/TREINO+GYM/data=!4m7!3m6!1s0x96816be427eb95cd:0xd3556026110d7bfb!8m2!3d-31.5673151!4d-68.5207163!16s%2Fg%2F11nxskvn1j!19sChIJzZXrJ-RrgZYR-3sNESZgVdM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Growing Club",
+        "rating": 4.9,
+        "reviews": 19,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Growing+Club/data=!4m7!3m6!1s0x96816bb06bd32377:0xda8f3fdf8f113536!8m2!3d-31.5476887!4d-68.5175773!16s%2Fg%2F11qg7kn9s6!19sChIJdyPTa7BrgZYRNjURj98_j9o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "TULUKA SAN JUAN CAPITAL",
+        "rating": 4.7,
+        "reviews": 19,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/TULUKA+SAN+JUAN+CAPITAL/data=!4m7!3m6!1s0x968141975dd43351:0x89fb4fc4a0818ce8!8m2!3d-31.534596!4d-68.5543093!16s%2Fg%2F11n6jqwn35!19sChIJUTPUXZdBgZYR6IyBoMRP-4k?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "SPINNING elipereyra",
+        "rating": 5.0,
+        "reviews": 19,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/SPINNING+elipereyra/data=!4m7!3m6!1s0x96816b377482c5cb:0xee818ed82651d39c!8m2!3d-31.5377201!4d-68.5031529!16s%2Fg%2F11jg5vpn_5!19sChIJy8WCdDdrgZYRnNNRJtiOge4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Martos",
+        "rating": 4.7,
+        "reviews": 19,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+Martos/data=!4m7!3m6!1s0x96816aebccc2b57f:0xef69fcd4446960c1!8m2!3d-31.5409077!4d-68.4959067!16s%2Fg%2F11fqbjlgx8!19sChIJf7XCzOtqgZYRwWBpRNT8ae8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Al Club Gym",
+        "rating": 4.7,
+        "reviews": 18,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Al+Club+Gym/data=!4m7!3m6!1s0x96816a7defb33dbb:0xca0fcb4bfcc6f63b!8m2!3d-31.5248225!4d-68.5178661!16s%2Fg%2F11cjkpzbqp!19sChIJuz2z731qgZYRO_bG_EvLD8o?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Activamente Training Center",
+        "rating": 5.0,
+        "reviews": 18,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Activamente+Training+Center/data=!4m7!3m6!1s0x9681419073841d5d:0x34fd732867452872!8m2!3d-31.5270633!4d-68.5732131!16s%2Fg%2F11khrp7v0j!19sChIJXR2Ec5BBgZYRcihFZyhz_TQ?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Marbling Entrenamiento y Readaptaci\u00f3n",
+        "rating": 4.7,
+        "reviews": 18,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Marbling+Entrenamiento+y+Readaptaci%C3%B3n/data=!4m7!3m6!1s0x96816b287f0e33e9:0xeec2dd957a1a011b!8m2!3d-31.563123!4d-68.5119455!16s%2Fg%2F11t3v6g4_2!19sChIJ6TMOfyhrgZYRGwEaepXdwu4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Vital Pilates",
+        "rating": 4.8,
+        "reviews": 17,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Vital+Pilates/data=!4m7!3m6!1s0x96814128fb617761:0x1f25033af41ba2a2!8m2!3d-31.5431969!4d-68.5285127!16s%2Fg%2F11lq1ct8x6!19sChIJYXdh-yhBgZYRoqIb9DoDJR8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Emanuel Lucero",
+        "rating": 4.1,
+        "reviews": 17,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Emanuel+Lucero/data=!4m7!3m6!1s0x96816a8348452183:0x6ba4e49ac1ae1447!8m2!3d-31.5388053!4d-68.4912067!16s%2Fg%2F11c32r2wf4!19sChIJgyFFSINqgZYRRxSuwZrkpGs?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Geminis pole sport",
+        "rating": 4.6,
+        "reviews": 16,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Geminis+pole+sport/data=!4m7!3m6!1s0x96816baf976ae831:0x29bf3316b5fd0fb3!8m2!3d-31.5243946!4d-68.5117929!16s%2Fg%2F11pz7y_h1l!19sChIJMehql69rgZYRsw_9tRYzvyk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Costa Arena Sol\u00e1rium",
+        "rating": 4.7,
+        "reviews": 16,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Costa+Arena+Sol%C3%A1rium/data=!4m7!3m6!1s0x968141d38e03dc73:0x83fa6b2d63d3fcd2!8m2!3d-31.5244015!4d-68.531419!16s%2Fg%2F11c208y18z!19sChIJc9wDjtNBgZYR0vzTYy1r-oM?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Antares Pilates & Est\u00e9tica",
+        "rating": 4.9,
+        "reviews": 15,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Antares+Pilates+%26+Est%C3%A9tica/data=!4m7!3m6!1s0x96816a8e234f3f2d:0x2709c965ba1836b6!8m2!3d-31.5344457!4d-68.5086246!16s%2Fg%2F11h12k1b02!19sChIJLT9PI45qgZYRtjYYumXJCSc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Apolo Gym",
+        "rating": 4.8,
+        "reviews": 13,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Apolo+Gym/data=!4m7!3m6!1s0x9681419f778cb99d:0x45b69909625c5981!8m2!3d-31.5575061!4d-68.561513!16s%2Fg%2F11gr31g2f2!19sChIJnbmMd59BgZYRgVlcYgmZtkU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "INSTINTO Centro Integral de Entrenamiento",
+        "rating": 4.9,
+        "reviews": 13,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/INSTINTO+Centro+Integral+de+Entrenamiento/data=!4m7!3m6!1s0x96816b1e5ecc0a29:0xcc82c098c7b4ad1f!8m2!3d-31.5415579!4d-68.5009397!16s%2Fg%2F11frrztqpf!19sChIJKQrMXh5rgZYRH620x5jAgsw?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Aerobic FORCE GYM",
+        "rating": 5.0,
+        "reviews": 13,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Aerobic+FORCE+GYM/data=!4m7!3m6!1s0x9681410de54963d7:0xef10e2f294687d16!8m2!3d-31.5650582!4d-68.5571641!16s%2Fg%2F11y4l_mz1v!19sChIJ12NJ5Q1BgZYRFn1olPLiEO8?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "EFFORT GYM",
+        "rating": 5.0,
+        "reviews": 12,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/EFFORT+GYM/data=!4m7!3m6!1s0x968141004feebf89:0x820057cde21603cc!8m2!3d-31.5108478!4d-68.5910546!16s%2Fg%2F11vwq0hw19!19sChIJib_uTwBBgZYRzAMW4s1XAII?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Plaza Saludable- Av. 25 de Mayo",
+        "rating": 4.5,
+        "reviews": 11,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Plaza+Saludable-+Av.+25+de+Mayo/data=!4m7!3m6!1s0x9681415630ca0141:0x68369d620807bbc4!8m2!3d-31.5313979!4d-68.5409576!16s%2Fg%2F11h18cr__2!19sChIJQQHKMFZBgZYRxLsHCGKdNmg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Narayani YOGA",
+        "rating": 5.0,
+        "reviews": 11,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Narayani+YOGA/data=!4m7!3m6!1s0x96816b980f07a2cf:0xd977e5cd7713f6e!8m2!3d-31.5371882!4d-68.5031902!16s%2Fg%2F11lgzslbfd!19sChIJz6IHD5hrgZYRbj9x11x-lw0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "DeporVida - Centro de Entrenamiento",
+        "rating": 5.0,
+        "reviews": 8,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/DeporVida+-+Centro+de+Entrenamiento/data=!4m7!3m6!1s0x96816bb47ca2ca19:0x1e942010d4a6d17e!8m2!3d-31.5364783!4d-68.5152862!16s%2Fg%2F11t7f72_7g!19sChIJGcqifLRrgZYRftGm1BAglB4?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio XtremeOver",
+        "rating": 4.7,
+        "reviews": 7,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Gimnasio+XtremeOver/data=!4m7!3m6!1s0x968141d1d73f6a3f:0x5a6ddce62ada045!8m2!3d-31.5520129!4d-68.5327776!16s%2Fg%2F11f3xh23xf!19sChIJP2o_19FBgZYRRaCtYs7dpgU?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Groso's gym",
+        "rating": 5.0,
+        "reviews": 7,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Groso%27s+gym/data=!4m7!3m6!1s0x96814188c6d18549:0x837f48543a373c13!8m2!3d-31.5497201!4d-68.541553!16s%2Fg%2F11vdqbdl20!19sChIJSYXRxohBgZYREzw3OlRIf4M?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Strong GYM",
+        "rating": 4.8,
+        "reviews": 6,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Strong+GYM/data=!4m7!3m6!1s0x968141b1ee22dfc7:0x3df5eda4d6764d1d!8m2!3d-31.5183145!4d-68.5271878!16s%2Fg%2F11sq1xb1rk!19sChIJx98i7rFBgZYRHU121qTt9T0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Metabolic centro de entrenamiento",
+        "rating": 5.0,
+        "reviews": 6,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Metabolic+centro+de+entrenamiento/data=!4m7!3m6!1s0x968141dca0537cc1:0xe294d82da8bb1edc!8m2!3d-31.508294!4d-68.549379!16s%2Fg%2F11r9gx0hc7!19sChIJwXxToNxBgZYR3B67qC3YlOI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Santa Lucia",
+        "rating": 4.3,
+        "reviews": 6,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Santa+Lucia/data=!4m7!3m6!1s0x96816a9178d60ffd:0xd649607dbe60166b!8m2!3d-31.5377488!4d-68.5073168!16s%2Fg%2F11dxchcnl_!19sChIJ_Q_WeJFqgZYRaxZgvn1gSdY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Rush",
+        "rating": 5.0,
+        "reviews": 6,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Rush/data=!4m7!3m6!1s0x9681412690997ed9:0xa63354fe164e1c1f!8m2!3d-31.5598422!4d-68.567595!16s%2Fg%2F11hss9v_d7!19sChIJ2X6ZkCZBgZYRHxxOFv5UM6Y?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Effort Gimnasio",
+        "rating": 5.0,
+        "reviews": 6,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Effort+Gimnasio/data=!4m7!3m6!1s0x96814111a36e2c51:0x8632d1eaad2fd5e2!8m2!3d-31.5054177!4d-68.5925164!16s%2Fg%2F11vpn09wzt!19sChIJUSxuoxFBgZYR4tUvrerRMoY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Be More Centro de Entrenamiento",
+        "rating": 5.0,
+        "reviews": 5,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Be+More+Centro+de+Entrenamiento/data=!4m7!3m6!1s0x968141e1efab17ab:0xd3c77fbffb23548!8m2!3d-31.5370636!4d-68.5524505!16s%2Fg%2F11r3f5mszv!19sChIJqxer7-FBgZYRSDWy__t3PA0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "K.5 GYM",
+        "rating": 4.2,
+        "reviews": 5,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/K.5+GYM/data=!4m7!3m6!1s0x9681410fb78776fb:0x197036588155e4d3!8m2!3d-31.5079551!4d-68.5673825!16s%2Fg%2F11syr5xqvx!19sChIJ-3aHtw9BgZYR0-RVgVg2cBk?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Acros Solo Para Mujeres",
+        "rating": 3.5,
+        "reviews": 4,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Acros+Solo+Para+Mujeres/data=!4m7!3m6!1s0x96816a8bb3527f4d:0xc8866c642e270587!8m2!3d-31.5262154!4d-68.5048604!16s%2Fg%2F11bbrhzzg7!19sChIJTX9Ss4tqgZYRhwUnLmRshsg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Marbling Entrenamiento Y Salud",
+        "rating": 5.0,
+        "reviews": 4,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Marbling+Entrenamiento+Y+Salud/data=!4m7!3m6!1s0x96814023703a9ab1:0xbd29a3653ddcfeae!8m2!3d-31.5458572!4d-68.5343487!16s%2Fg%2F11kdsyck2b!19sChIJsZo6cCNAgZYRrv7cPWWjKb0?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "RONIN CLUB MMA SAN JUAN III",
+        "rating": 4.8,
+        "reviews": 4,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/RONIN+CLUB+MMA+SAN+JUAN+III/data=!4m7!3m6!1s0x96816bae41625fc7:0x78444829185900f4!8m2!3d-31.5268834!4d-68.5040028!16s%2Fg%2F11p65fmdqp!19sChIJx19iQa5rgZYR9ABZGClIRHg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "NAMASTE Centro de Bienestar",
+        "rating": 5.0,
+        "reviews": 3,
+        "cost": "\uf54a",
+        "link": "https://www.google.com/maps/place/NAMASTE+Centro+de+Bienestar/data=!4m7!3m6!1s0x96816a9f8b4faab9:0x47f35f06199539f6!8m2!3d-31.5482358!4d-68.5231892!16s%2Fg%2F11f03lb94r!19sChIJuapPi59qgZYR9jmVGQZf80c?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio C.E.F.",
+        "rating": 4.7,
+        "reviews": 3,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+C.E.F./data=!4m7!3m6!1s0x96816a5e2b0d691f:0x7649df8dfe012383!8m2!3d-31.519973!4d-68.5005773!16s%2Fg%2F11hf2jwxlz!19sChIJH2kNK15qgZYRgyMB_o3fSXY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Rey Pilates 2",
+        "rating": 3.0,
+        "reviews": 2,
+        "cost": "\ue934",
+        "link": "https://www.google.com/maps/place/Rey+Pilates+2/data=!4m7!3m6!1s0x96814112c33f7a41:0xe016f8e21318c1a5!8m2!3d-31.5335562!4d-68.530636!16s%2Fg%2F11vf1xs29r!19sChIJQXo_wxJBgZYRpcEYE-L4FuA?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio de boxeo Invictus",
+        "rating": 4.0,
+        "reviews": 2,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+de+boxeo+Invictus/data=!4m7!3m6!1s0x96816b04b06a2909:0x7bda779511f7e320!8m2!3d-31.5557978!4d-68.5237223!16s%2Fg%2F11s194826h!19sChIJCSlqsARrgZYRIOP3EZV32ns?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Star club Gym",
+        "rating": 5.0,
+        "reviews": 1,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Star+club+Gym/data=!4m7!3m6!1s0x96816b5605546d33:0xb88e92e143019fb1!8m2!3d-31.5278278!4d-68.5277242!16s%2Fg%2F11krg_sxzp!19sChIJM21UBVZrgZYRsZ8BQ-GSjrg?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Gimnasio Bancaria",
+        "rating": 5.0,
+        "reviews": 1,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Gimnasio+Bancaria/data=!4m7!3m6!1s0x968141fca77971c1:0xc635ee590135dd8c!8m2!3d-31.5449786!4d-68.5720118!16s%2Fg%2F11p5dp_kjc!19sChIJwXF5p_xBgZYRjN01AVnuNcY?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "GLOW GYM",
+        "rating": 5.0,
+        "reviews": 1,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/GLOW+GYM/data=!4m7!3m6!1s0x9681414a336ae4a3:0x37c7ba56dc9052ce!8m2!3d-31.5598281!4d-68.5542339!16s%2Fg%2F11v3q6kv6c!19sChIJo-RqM0pBgZYRzlKQ3Fa6xzc?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Graciela Primo",
+        "rating": 5.0,
+        "reviews": 1,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Graciela+Primo/data=!4m7!3m6!1s0x96814026dc81545b:0x4adeeda3ae29df5f!8m2!3d-31.5429148!4d-68.5283092!16s%2Fg%2F11fl40_hk5!19sChIJW1SB3CZAgZYRX98prqPt3ko?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Plaza Saludable- Av. Las Heras",
+        "rating": 5.0,
+        "reviews": 1,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Plaza+Saludable-+Av.+Las+Heras/data=!4m7!3m6!1s0x968141c4f8af60ff:0xe244be86f71339f0!8m2!3d-31.5343121!4d-68.5387544!16s%2Fg%2F11h70j2g54!19sChIJ_2Cv-MRBgZYR8DkT94a-ROI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Soul Fitness",
+        "rating": null,
+        "reviews": null,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Soul+Fitness/data=!4m7!3m6!1s0x968141dc5b1bd8b1:0xacabede25107ecb1!8m2!3d-31.5103289!4d-68.5330376!16s%2Fg%2F11j4t6cwy5!19sChIJsdgbW9xBgZYRsewHUeLtq6w?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "Terra Fitness Center",
+        "rating": null,
+        "reviews": null,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/Terra+Fitness+Center/data=!4m7!3m6!1s0x968140286561cb71:0x925deaf1788e59f9!8m2!3d-31.5375285!4d-68.5269553!16s%2Fg%2F11ph7mch33!19sChIJccthZShAgZYR-VmOePHqXZI?authuser=0&hl=es-419&rclk=1"
+    },
+    {
+        "name": "SportClub San Juan suc. Rivadavia",
+        "rating": null,
+        "reviews": null,
+        "cost": null,
+        "link": "https://www.google.com/maps/place/SportClub+San+Juan+suc.+Rivadavia/data=!4m7!3m6!1s0x968141522ed7409d:0x922b8eae300035da!8m2!3d-31.5379759!4d-68.5673883!16s%2Fg%2F11y42dzlxm!19sChIJnUDXLlJBgZYR2jUAMK6OK5I?authuser=0&hl=es-419&rclk=1"
+    }
+]
