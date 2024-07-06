@@ -4,3 +4,7 @@ Leverage Scrapy to filter Mercado Libre products based on reviews and stars.
 ```
 python main.py -p <product> -n <number_of_items> -s <stars> -r <reviews> -f <output_format>
 ```
+Help:
+```
+python main.py -h
+```
