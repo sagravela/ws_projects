@@ -3,4 +3,7 @@
 **/*.json
 **/*.csv
 **/*.xml
+**/*.txt
 /*proposals
+/web-scraping
+/linkedin/linkedin_connections
