@@ -2,19 +2,21 @@
 The Business Data Scraper is a powerful application designed to help you find the best businesses in a specific area based on **Google Maps** data. By inputting a search term (e.g., restaurant, gym) and defining an area, the app scrapes relevant business data using *Selenium*, sorts it by a score based on the number of reviews and star ratings, and presents you with the top businesses in that area in *csv* format.
 
 ## Requirements
-- Python 3
-- Selenium
+- Python 3.12.3
+- Selenium 4.21.0
 - WebDriver for your preferred browser (e.g., ChromeDriver for Google Chrome)
+
+**Note**: Versions detailed here are not mandatory, could run with other versions.
 
 ## Usage
 Help:
 ```bash
-python business_data.py -h
+python business_data.py --help
 ```
 
 ### Run the application:
 ```bash
-python business_data.py -s <search_term> -a <area>
+python business_data.py --search search_term --area area
 ```
 
 - `search_term` is the term you want to search for (e.g., restaurant, gym).
@@ -27,7 +29,7 @@ For example:
 ### Open links
 Later on, you can use `open_links.py` to open a bunch of links in your browser at once:
 ```bash
-python open_links.py -n amount_of_links_to_open name_of_csv_file
+python open_links.py -n amount_of_links_to_open name_of_csv_file.csv
 ```
 
 ### Customize sorting score
