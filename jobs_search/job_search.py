@@ -2,6 +2,7 @@ import argparse
 import json
 import csv
 import logging
+import re
 from scrapy.crawler import CrawlerProcess
 from linkedin_spider import LinkedinSpider
 
@@ -47,7 +48,7 @@ class JobSearch:
         process.start()
         
         # Filter jobs
-        logging.info(f"Filtering jobs based on keywords: {self.job}, {', '.join(self.keywords)}.")
+        logging.info(f"Filtering jobs based on keywords: {[self.job] + self.keywords}.")
         self.save_filtered_jobs(self.filter_jobs())
         
     def filter_jobs(self):
@@ -55,9 +56,14 @@ class JobSearch:
             jobs = json.load(file)
         
         def filter_offer(x):
-            return any(word.lower() in f"{x['title']} {x['description']}".lower() for word in self.keywords + [self.job])
+            # Filter job offers based on keywords
+            pattern = r'\b(' + '|'.join(re.escape(keyword) for keyword in self.keywords) + r')\b'
+            match = re.search(pattern, f"{x['title']} {x['description']}", re.IGNORECASE)
+            return bool(match)
 
-        return filter(filter_offer, jobs)
+        filtered_jobs = list(filter(filter_offer, jobs))
+        logging.info(f"{len(filtered_jobs)} jobs kept out of {len(jobs)}")
+        return filtered_jobs
 
     def save_filtered_jobs(self, filtered_jobs):
         with open('filtered_jobs_offers.csv', 'w', newline='', encoding='utf-8') as file:

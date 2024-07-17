@@ -36,7 +36,7 @@ Generated files are:
 
 ### Filtering Notes
 The app filter by the search term and keywords (if they are provided) looking them up in the job title and description. If any of them matches, the job is considered relevant.  
-A recommendation of use is to **provide other names of the role (even translations) as keywords to filter the results**. For instace, searching for a `data scientist` in `spain`: 
+A recommendation of use is to **provide other names of the role (even translations) as keywords to filter the results**. For instance, searching for a `data scientist` in `spain`: 
 ```bash
 python job_search.py -s 'data scientist' -l spain -k 'data science' 'ciencia de datos' 'científico de datos' 'machine learning' 'aprendizaje automático'
 ```
