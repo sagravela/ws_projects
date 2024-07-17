@@ -22,7 +22,7 @@ class JobSearch:
         self.location = args.location
         self.keywords = args.keywords
 
-        # Set up Scrapy process
+        # Set up Scrapy Settings
         process = CrawlerProcess(settings={
             'FEEDS': {
                 'jobs_offers.json': {
@@ -32,13 +32,15 @@ class JobSearch:
                     'store_empty': False,
                     'fields': ['title', 'company', 'place', 'description', 'url'],
                     'indent': 4,
-                },            
+                },
             },
-            'LOG_LEVEL': 'INFO',  # Set the global log level to INFO
+            # Disable some Scrapy INFO loggers to avoid flooding the console
+            'LOG_LEVEL': 'INFO',
         })
 
         # Linkedin spider
-        process.crawl(LinkedinSpider, job=self.job, location=self.location)
+        logging.info("Starting the crawler process in Linkedin searching for {} in {}".format(self.job, self.location))
+        process.crawl(LinkedinSpider, job=self.job, location=self.location, loggings=False, loglevel='INFO')
         # Add more spiders ...
 
         # Start the crawler

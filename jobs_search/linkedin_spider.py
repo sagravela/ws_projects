@@ -1,4 +1,5 @@
 import scrapy
+import logging
 
 class JobItem(scrapy.Item):
     title = scrapy.Field()
@@ -18,18 +19,18 @@ class LinkedinSpider(scrapy.spiders.CrawlSpider):
         'AUTOTHROTTLE_ENABLED': True,
         'AUTOTHROTTLE_START_DELAY': 1,
         'AUTOTHROTTLE_MAX_DELAY': 10,
-        'AUTOTHROTTLE_TARGET_CONCURRENCY': 1.0,
+        'AUTOTHROTTLE_TARGET_CONCURRENCY': 0.5,
         'AUTOTHROTTLE_DEBUG': False,
         'RETRY_ENABLED': True,
         'RETRY_TIMES': 5,
         'RETRY_HTTP_CODES': [429], # 429: Too Many Requests
         'METAREFRESH_ENABLED': False, # Disable MetaRefresh to avoid redirections
 
-        # LOGGING SETTINGS
-        'LOG_LEVEL': 'INFO',
-
         # FEED SETTINGS
         'FEED_EXPORT_FIELDS': ['title', 'company', 'place', 'description', 'url'],
+
+        # CRAWL SETTINGS
+        'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
     }
     allowed_domains = ['linkedin.com']
     rules = (
@@ -39,10 +40,19 @@ class LinkedinSpider(scrapy.spiders.CrawlSpider):
         ),
     )
 
-    def __init__(self, job: str = None, location: str =None, *args, **kwargs):
+    def __init__(self, job: str = None, location: str =None, loggings: bool= True, *args, **kwargs):
+        # Turn off some INFO loggings
+        if not loggings:
+            loggings_to_hide = ['scrapy.addons', 'scrapy.extensions.telnet', 'scrapy.middleware', 'scrapy.crawler']
+            for logger_name in loggings_to_hide:    
+                logger = logging.getLogger(logger_name)
+                logger.setLevel(logging.WARNING)
+    
         super(LinkedinSpider, self).__init__(*args, **kwargs)
+        
         url = f'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job.replace(" ", "%20")}&location={location}&geoId=&trk=public_jobs_jobs-search-bar_search-submit&start='
         self.start_urls = [url + str(i) for i in range(0, 1000, 25)] # 1000 is the limit of offers showed by Linkedin
+        self.logger.info("Linkedin starting base url: {}0".format(url))
 
     def parse(self, response):
         # scrapy.shell.inspect_response(response, self)
