@@ -10,17 +10,23 @@ The Job Scraper App is a tool designed to connect to various job websites, retri
 ## Usage
 Help:
 ```bash
-python job_scraper.py --help
+python job_search.py --help
 ```
 
 Searching for jobs:
 ```bash
-python job_scraper.py --search search_term --location location --keywords keyword_0 keyword_1 ...
+python job_search.py --search search_term --location location --keywords keyword_0 keyword_1 ...
 ```
 Where:
 - `--search_term` is the job title or keyword to search for.
 - `--location` is the location to search for the job.
 - `--keywords` (optional) is a list of additional keywords to filter the results by.
+
+Spider can be runned standalone by Scrapy CLI:
+```bash
+scrapy runspider spider_name.py -a job=job_name -a location=location -O output_file.format:format
+```
+This will run the spider scraping all the jobs without filtering.
 
 ### Output
 It will retrieve the **title**, **company**, **location**, and **description** of the job. 
@@ -32,7 +38,7 @@ Generated files are:
 The app filter by the search term and keywords (if they are provided) looking them up in the job title and description. If any of them matches, the job is considered relevant.  
 A recommendation of use is to **provide other names of the role (even translations) as keywords to filter the results**. For instace, searching for a `data scientist` in `spain`: 
 ```bash
-python job_scraper.py -s 'data scientist' -l spain -k 'data science' 'ciencia de datos' 'científico de datos' 'machine learning' 'aprendizaje automático'
+python job_search.py -s 'data scientist' -l spain -k 'data science' 'ciencia de datos' 'científico de datos' 'machine learning' 'aprendizaje automático'
 ```
 
 ## Further Improvements
