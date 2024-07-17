@@ -36,7 +36,6 @@ class BusinessData:
         self.url = f'https://www.google.com/maps/search/{self.args.search}/@{self.area}z'
         self.logger.info(f"URL set to: {self.url}")
 
-        # Change this weighting if you want to sort by different criteria
         self.weight_reviews = weight_reviews # popularity
         self.weight_stars = weight_stars # quality
         self.data = []
@@ -61,7 +60,7 @@ class BusinessData:
             # Scroll to the bottom of the element
             self.driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", element)
             
-            time.sleep(2) # for polite scrolling
+            time.sleep(1) # for polite scrolling
             # Wait for the scroll height to change
             try:
                 WebDriverWait(self.driver, 3).until(lambda driver: driver.execute_script("return arguments[0].scrollHeight", element) != previous_height)
@@ -76,14 +75,14 @@ class BusinessData:
     def parse_data(self, data_html):
         """Parse the HTML data and store it in a CSV file."""
         self.logger.info("Parsing the HTML data")
-        links = data_html.find_all('a')
+        anchors = data_html.find_all('a')
 
-        for link in links:
+        for anchor in anchors:
             # discard any social media links
-            if "https://www.google.com/maps/place/" not in link.get('href'):
+            if "https://www.google.com/maps/place/" not in anchor.get('href'):
                 continue
             stars, reviews = None, None
-            feedback = link.parent.find('span', attrs={'role': 'img'})
+            feedback = anchor.parent.find('span', attrs={'role': 'img'})
             if feedback:
                 feedback = re.search(r'(\d+\.\d+)\s[a-zA-Z]+\s(\d+(?:,\d+)*)\s[a-zA-Z]+', feedback.get('aria-label'))
                 try:
@@ -93,10 +92,10 @@ class BusinessData:
                     pass
                 
             business_data = {
-                'name': link.get('aria-label'),
+                'name': anchor.get('aria-label'),
                 'stars': stars,
                 'reviews': reviews,
-                'link': link.get('href')
+                'link': anchor.get('href')
             }
 
             self.data.append(business_data)
